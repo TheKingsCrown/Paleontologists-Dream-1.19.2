@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "paleontologists-dream:syringe_filled"
+    },
+    {
+      "item": "paleontologists-dream:test_tube_empty"
+    }
+  ],
+  "result": {
+    "item": "paleontologists-dream:test_tube_filled"
+  }
+}

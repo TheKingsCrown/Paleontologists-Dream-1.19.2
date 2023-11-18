@@ -1,0 +1,14 @@
+{
+  "item.paleontologists-dream.amber_fossil_insect": "Amber Insect Fossil",
+  "item.paleontologists-dream.amber_fossil_plant": "Amber Flora Fossil",
+  "item.paleontologists-dream.test_tube_empty": "Test Tube",
+  "item.paleontologists-dream.test_tube_filled": "Filled Test Tube",
+  "item.paleontologists-dream.syringe_empty": "Syringe",
+  "item.paleontologists-dream.syringe_filled": "Filled Syringe",
+  "item.paleontologists-dream.saline_solution_bucket": "Saline Solution Bucket",
+
+  "block.paleontologists-dream.amber_ore": "Amber Ore",
+  "block.paleontologists-dream.centrifuge": "Centrifuge",
+
+  "itemGroup.paleontologists-dream.dinomod": "Paleontologist's Dream"
+}

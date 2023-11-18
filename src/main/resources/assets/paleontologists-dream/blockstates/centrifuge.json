@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "paleontologists-dream:block/centrifuge"
+    },
+    "facing=south": {
+      "model": "paleontologists-dream:block/centrifuge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "paleontologists-dream:block/centrifuge",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "paleontologists-dream:block/centrifuge",
+      "y": 90
+    }
+  }
+}
